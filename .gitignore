@@ -1,1 +1,20 @@
 # git ignore file
+/openglTest/openglTest/openglTest.vcxproj
+/openglTest/openglTest/openglTest.vcxproj.filters
+/openglTest/Debug/openglTest.ilk
+/openglTest/Debug/openglTest.pdb
+/openglTest/openglTest/Debug/cl.command.1.tlog
+/openglTest/openglTest/Debug/CL.read.1.tlog
+/openglTest/openglTest/Debug/CL.write.1.tlog
+/openglTest/openglTest/Debug/link.command.1.tlog
+/openglTest/openglTest/Debug/link.read.1.tlog
+/openglTest/openglTest/Debug/link.write.1.tlog
+/openglTest/openglTest/Debug/link-cvtres.read.1.tlog
+/openglTest/openglTest/Debug/link-cvtres.write.1.tlog
+/openglTest/openglTest/Debug/link-rc.read.1.tlog
+/openglTest/openglTest/Debug/link-rc.write.1.tlog
+/openglTest/openglTest/Debug/openglTest.lastbuildstate
+/openglTest/openglTest/Debug/openglTest.log
+/openglTest/openglTest/Debug/OpenMain.obj
+/openglTest/openglTest/Debug/vc110.idb
+/openglTest/openglTest/Debug/vc110.pdb
